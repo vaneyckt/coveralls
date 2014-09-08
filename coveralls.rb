@@ -3,3 +3,4 @@ def foo
 end
 
 foo
+bar
